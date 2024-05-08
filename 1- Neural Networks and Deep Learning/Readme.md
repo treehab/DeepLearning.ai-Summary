@@ -194,6 +194,7 @@ Here are the course summary as its given on the course [link](https://www.course
   - ex. `f(a) = 3a`                    `d(f(a))/d(a) = 3`
   - if `a = 2` then `f(a) = 6`
   - if we move a a little bit `a = 2.001` then `f(a) = 6.003` means that we multiplied the derivative (Slope) to the moved area and added it to the last result.
+  - functions derivative on a straight line doesn't change
 
 ### More Derivatives examples
 
